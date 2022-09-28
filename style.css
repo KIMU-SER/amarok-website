@@ -1,0 +1,23 @@
+button {
+  color: blue;
+  padding: 10px;
+  border-color: white;
+  font-size: 20px;
+  transition: 0.3s;
+  border-radius: 0.4em;
+  cursor: pointer;
+  }
+button:hover {
+  color: yellow;
+  background: red;
+  box-shadow: 0 0 10px red,0 0 69px pink,0 0 50px yellow,0 0 1000x red,0 0 1000px blue,0 0 #f32179, 0 0 60px #f32179;
+  }
+h1 {
+  color: #f32179;
+  box-shadow: 0 0 40px red;
+  }
+h3 {
+  color: #f32179;
+  }
+  
+  
