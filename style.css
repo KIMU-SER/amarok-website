@@ -1,23 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: Black;
+  }
 button {
-  color: blue;
-  padding: 10px;
-  border-color: white;
-  font-size: 20px;
-  transition: 0.3s;
-  border-radius: 0.4em;
-  cursor: pointer;
+  margin: 0;
+  padding: 11px;
+  width: 121px;
+  height: 60px;
+  border-radius: 10px;
+  color: black;
+  background: #39ff14;
   }
 button:hover {
-  color: yellow;
-  background: red;
-  box-shadow: 0 0 10px red,0 0 69px pink,0 0 50px yellow,0 0 1000x red,0 0 1000px blue,0 0 #f32179, 0 0 60px #f32179;
-  }
-h1 {
-  color: #f32179;
-  box-shadow: 0 0 40px red;
+  color: green;
+  box-shadow: 0 0 60px #39ff14,0 0 70px blue,0 0 100px pink,0 0 120px #f32179;
   }
 h3 {
-  color: #f32179;
+  color: green;
+  box-shadow: 0 0 100px #39ff14,0 0 50px green;
   }
   
-  
+    
